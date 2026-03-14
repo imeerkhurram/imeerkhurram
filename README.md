@@ -1,170 +1,177 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0a192f,50:00d4ff,75:0a192f,100:0d1117&height=250&section=header&text=Meer%20Khurram&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=AI%20Automation%20Builder%20%7C%20Shipping%20AI%20Agents%2C%20Chatbots%20%26%20Workflow%20Systems%20%7C%20Founder%20%40Agentnity&descSize=14&descAlignY=52&descAlign=50" width="100%"/>
+<!-- ═══════════════════════════════════════════════════ -->
+<!--               ANIMATED HEADER BANNER               -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%F0%9F%A4%96+Building+AI+systems+that+save+businesses+real+time;%F0%9F%92%AC+Chatbots+that+actually+understand+your+data;%E2%9A%A1+Automations+that+run+while+you+sleep;%F0%9F%A7%A0+AI+agents+that+handle+repetitive+work;%F0%9F%9A%80+If+it+can+be+automated%2C+it+should+be+automated" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:0a1628,30:0e2a47,50:00d4ff,70:0e2a47,90:0a1628,100:0d1117&height=230&section=header&text=Meer%20Khurram&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20Automation%20Builder%20%E2%80%A2%20Founder%20%40Agentnity%20%E2%80%A2%20Hyderabad%2C%20India&descSize=14&descAlignY=52" width="100%"/>
 
 <br/>
 
-<p>
-  <a href="https://github.com/imeerkhurram">
-    <img src="https://komarev.com/ghpvc/?username=imeerkhurram&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/imeerkhurram?tab=followers">
-    <img src="https://img.shields.io/github/followers/imeerkhurram?label=FOLLOWERS&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github" alt="Followers"/>
-  </a>
-  &nbsp;
-  <a href="https://meerkhurram.com">
-    <img src="https://img.shields.io/badge/WEBSITE-meerkhurram.com-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Website"/>
-  </a>
-</p>
+<!-- ANIMATED TYPING -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Building+AI+systems+that+save+businesses+real+time;Chatbots+%7C+Automations+%7C+AI+Agents+%7C+RAG+Pipelines;If+it+can+be+automated%2C+it+should+be+automated" alt="Typing SVG" />
+</a>
 
-<p>
-  <a href="https://linkedin.com/in/imeerkhurram">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://meerkhurram.com">
-    <img src="https://img.shields.io/badge/Website-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-  </a>
-  &nbsp;
-  <a href="mailto:meer@agentnity.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- SOCIAL BADGES -->
+<a href="https://linkedin.com/in/meerkhurram"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/%20-0d1117?style=for-the-badge" height="28"/>
+<a href="https://twitter.com/meerkhurram_"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/%20-0d1117?style=for-the-badge" height="28"/>
+<a href="https://agentnity.com"><img src="https://img.shields.io/badge/-Agentnity.com-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/%20-0d1117?style=for-the-badge" height="28"/>
+<a href="mailto:meer@agentnity.com"><img src="https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<!-- PROFILE STATS -->
+<img src="https://komarev.com/ghpvc/?username=meerkhurram&label=Profile%20Views&color=00d4ff&style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/%20-0d1117?style=for-the-badge" height="28"/>
+<a href="https://github.com/meerkhurram?tab=followers"><img src="https://img.shields.io/github/followers/meerkhurram?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github"/></a>
+<img src="https://img.shields.io/badge/%20-0d1117?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/github/stars/meerkhurram?label=Stars&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github"/>
+
+<br/>
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="32"/> &nbsp;Who Am I?
-
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340"/>
-
-> ### *"I build AI systems that save businesses real time - chatbots that actually understand your data, automations that run while you sleep, and AI agents that handle tasks humans shouldn't waste time on."*
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <br/>
 
-- 🚀 &nbsp;Building AI automation tools at **[Agentnity](https://agentnity.com)**
-- 🤖 &nbsp;Shipping production-focused **AI agents** and **RAG chatbots**
-- ⚙️ &nbsp;Designing **workflow automations** for businesses
-- 🔓 &nbsp;Open-sourcing **AI templates** and **automation blueprints**
-- 🎬 &nbsp;Creating tutorials on **AI product development**
-- 🧠 &nbsp;Exploring **LLMs**, **RAG**, and **agentic AI systems**
-- 🇮🇳 &nbsp;Based in **Hyderabad, India**
-- ⚡ &nbsp;Fun fact: **I automate things before I even need them**
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                   ABOUT ME SECTION                  -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" />&nbsp; About Me
+
+```yaml
+name: Meer Khurram
+role: AI Automation Builder
+company: Founder @ Agentnity
+location: Hyderabad, India
+focus: AI Agents | RAG Chatbots | Workflow Automation
+
+currently_building:
+  - AI Agents & RAG Chatbots at Agentnity
+  - n8n Workflow Automation Templates
+  - Open-source AI tools & starter kits
+  - LLM Benchmarks for Indian Languages
+
+philosophy: >
+  I build AI systems that save businesses real
+  time. Chatbots that actually understand your
+  data. Automations that run while you sleep.
+  AI agents that handle tasks humans shouldn't
+  waste time on.
+```
 
 <br clear="both"/>
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--               TECH STACK - SKILL ICONS              -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" />&nbsp; Tech Stack
+
+<br/>
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32"/> &nbsp;Tech Arsenal
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="22" />&nbsp; AI & Machine Learning</h4>
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="160">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="AI Tools"/>
+</a>
 
-### 🤖 AI / ML
+<br/>
 
-</td>
-<td>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)&nbsp;
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)&nbsp;
+![Anthropic](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)&nbsp;
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Anthropic](https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+<br/><br/>
 
-</td>
-</tr>
-<tr>
-<td align="center" width="160">
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" />&nbsp; Backend & Frontend</h4>
 
-### ⚙️ Backend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,nextjs,react,ts,js,tailwind,html,css&theme=dark&perline=11" alt="Dev Stack"/>
+</a>
 
-</td>
-<td>
+<br/><br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="22" />&nbsp; Database & Infrastructure</h4>
 
-</td>
-</tr>
-<tr>
-<td align="center" width="160">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis,docker,vercel,linux,git,github,githubactions&theme=dark&perline=10" alt="Infra Stack"/>
+</a>
 
-### 🎨 Frontend
+<br/><br/>
 
-</td>
-<td>
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" />&nbsp; Automation & Tools</h4>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)&nbsp;
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)&nbsp;
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)&nbsp;
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)&nbsp;
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td align="center" width="160">
-
-### 🗄️ Data & Storage
-
-</td>
-<td>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="160">
-
-### 🔧 DevOps & Tools
-
-</td>
-<td>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</td>
-</tr>
-</table>
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32"/> &nbsp;Featured Projects
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                 FEATURED PROJECTS                   -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" />&nbsp; Featured Projects
+
+<br/>
 
 <div align="center">
 
-<a href="https://github.com/imeerkhurram/vaanichat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imeerkhurram&repo=vaanichat&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9" width="49%"/>
+<a href="https://github.com/meerkhurram/ai-support-agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meerkhurram&repo=ai-support-agent&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9" width="49%"/>
 </a>
-<a href="https://github.com/imeerkhurram/exercisedb-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imeerkhurram&repo=exercisedb-api&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9" width="49%"/>
+&nbsp;
+<a href="https://github.com/meerkhurram/autoflow-n8n-templates">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meerkhurram&repo=autoflow-n8n-templates&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9" width="49%"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/meerkhurram/model-arena">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meerkhurram&repo=model-arena&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9" width="49%"/>
+</a>
+&nbsp;
+<a href="https://github.com/meerkhurram/ai-content-engine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meerkhurram&repo=ai-content-engine&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9" width="49%"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/meerkhurram/india-llm-leaderboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meerkhurram&repo=india-llm-leaderboard&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9" width="49%"/>
+</a>
+&nbsp;
+<a href="https://github.com/meerkhurram/awesome-ai-tools">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meerkhurram&repo=awesome-ai-tools&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9" width="49%"/>
 </a>
 
 </div>
@@ -172,104 +179,489 @@
 <br/>
 
 <details>
-<summary><b>📋 Click to see current project roadmap</b></summary>
+<summary>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" width="20" />&nbsp; <b>Click to see detailed project breakdown</b></summary>
+
 <br/>
 
 <div align="center">
 
-| Project | Description | Status |
-| --- | --- | --- |
-| **VaaniChat** | AI chatbot platform for support, workflow automation, and customer conversations | Live repo |
-| **ExerciseDB API** | Open-source exercise database API with rich workout metadata | Live repo |
-| **AI Support Agent** | Customer support bot trained on docs with retrieval and human handoff | In progress |
-| **AutoFlow Templates** | Plug-and-play workflow automations for ops, support, and growth | In progress |
-| **Model Arena** | Side-by-side AI model comparison and benchmark tooling | Planned |
-| **India LLM Leaderboard** | Benchmarking LLMs for Indian languages and real-world use cases | Planned |
+| | Project | Description | Tech Stack |
+|:-:|:--------|:------------|:-----------|
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20"/> | **[AI Support Agent](https://github.com/meerkhurram/ai-support-agent)** | Production RAG chatbot trained on your docs — answers questions, escalates to humans | `LangChain` `FastAPI` `Pinecone` |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20"/> | **[AutoFlow Templates](https://github.com/meerkhurram/autoflow-n8n-templates)** | 50+ n8n workflows for lead capture, AI email, content repurposing, CRM sync | `n8n` `OpenAI` `Webhooks` |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="20"/> | **[Model Arena](https://github.com/meerkhurram/model-arena)** | Compare GPT-4, Claude, Gemini, Llama side-by-side — benchmarks, pricing, speed | `Next.js` `Supabase` `OpenAI` |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="20"/> | **[AI Content Engine](https://github.com/meerkhurram/ai-content-engine)** | 1 blog post in, 5 LinkedIn + 3 tweets + newsletter + SEO metadata out | `Python` `Claude API` `n8n` |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20with%20Meridians.png" width="20"/> | **[India LLM Leaderboard](https://github.com/meerkhurram/india-llm-leaderboard)** | Benchmarking LLMs on Hindi, Telugu, Tamil & Indian use cases | `Python` `HuggingFace` `Gradio` |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20"/> | **[Awesome AI Tools](https://github.com/meerkhurram/awesome-ai-tools)** | Curated 500+ AI tools, APIs, frameworks & resources — updated weekly | `Markdown` `Research` |
 
 </div>
 
 </details>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32"/> &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=imeerkhurram&show_icons=true&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true&ring_color=00d4ff" width="49%" alt="Stats"/>
-<img src="https://streak-stats.demolab.com?user=imeerkhurram&theme=react&background=0d1117&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="49%" alt="Streak"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imeerkhurram&layout=donut-vertical&theme=react&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false&langs_count=10" width="38%" alt="Top Languages"/>
+<!-- ═══════════════════════════════════════════════════ -->
+<!--              WHAT I BUILD FOR BUSINESSES            -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30" />&nbsp; What I Build for Businesses
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="60"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imeerkhurram&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=00d4ff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="Activity Graph"/>
+**AI Chatbots**
+
+<sub>RAG-powered bots trained<br/>on YOUR docs and data.<br/>They truly understand context.</sub>
+
+<br/>
+
+</td>
+<td align="center" width="33%">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60"/>
+
+<br/><br/>
+
+**Workflow Automation**
+
+<sub>n8n and Make.com flows<br/>that run your business<br/>while you sleep.</sub>
+
+<br/>
+
+</td>
+<td align="center" width="33%">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="60"/>
+
+<br/><br/>
+
+**AI Agents**
+
+<sub>Autonomous agents that<br/>handle complex tasks<br/>24/7. No human needed.</sub>
+
+<br/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="60"/>
+
+<br/><br/>
+
+**Content Engines**
+
+<sub>1 input, 10 outputs.<br/>Blog, social, email<br/>all fully automated.</sub>
+
+<br/>
+
+</td>
+<td align="center" width="33%">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="60"/>
+
+<br/><br/>
+
+**AI Dashboards**
+
+<sub>Real-time analytics with<br/>AI-powered summaries<br/>and predictions.</sub>
+
+<br/>
+
+</td>
+<td align="center" width="33%">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="60"/>
+
+<br/><br/>
+
+**Integrations**
+
+<sub>Connect any tool to<br/>any tool, powered<br/>by AI intelligence.</sub>
+
+<br/>
+
+</td>
+</tr>
+</table>
 
 </div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--              FULL PROJECT ROADMAP                   -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/World%20Map.png" width="30" />&nbsp; Building in the Open — 30 Repos in 6 Months
+
+<br/>
+
+<details>
+<summary>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Phase_1-Foundation-339933?style=flat-square&labelColor=0d1117"/>&nbsp; <b>Month 1</b> &nbsp;·&nbsp; 5 repos</summary>
+
+<br/>
+
+| # | Repo | Description |
+|:-:|:-----|:------------|
+| 01 | `ai-support-agent` | Production RAG chatbot — the flagship project |
+| 02 | `autoflow-n8n-templates` | 50+ automation workflow templates |
+| 03 | `awesome-ai-tools` | Curated 500+ AI tools — star magnet |
+| 04 | `meerkhurram` | This profile README |
+| 05 | `dotfiles` | Dev environment configuration |
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Phase_2-Product_Projects-3178C6?style=flat-square&labelColor=0d1117"/>&nbsp; <b>Month 2</b> &nbsp;·&nbsp; 5 repos</summary>
+
+<br/>
+
+| # | Repo | Description |
+|:-:|:-----|:------------|
+| 06 | `model-arena` | AI model comparison with radar charts |
+| 07 | `ai-content-engine` | 1 blog to 10 social posts, automated |
+| 08 | `prompt-library` | Collection of battle-tested prompts |
+| 09 | `ai-email-assistant` | AI-powered email drafting tool |
+| 10 | `lead-enrichment-api` | Enrich leads with AI via REST API |
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Phase_3-AI_Deep_Dives-8E75B2?style=flat-square&labelColor=0d1117"/>&nbsp; <b>Month 3</b> &nbsp;·&nbsp; 5 repos</summary>
+
+<br/>
+
+| # | Repo | Description |
+|:-:|:-----|:------------|
+| 11 | `india-llm-leaderboard` | Indian language LLM benchmarks |
+| 12 | `rag-playground` | Interactive RAG experimentation tool |
+| 13 | `ai-voice-agent` | Voice-based AI assistant |
+| 14 | `slack-ai-bot` | AI bot for Slack workspaces |
+| 15 | `meeting-summarizer` | AI meeting transcription and summary |
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Phase_4-Full_Stack_AI-F7DF1E?style=flat-square&labelColor=0d1117"/>&nbsp; <b>Month 4</b> &nbsp;·&nbsp; 5 repos</summary>
+
+<br/>
+
+| # | Repo | Description |
+|:-:|:-----|:------------|
+| 16 | `ai-dashboard` | Analytics dashboard with AI insights |
+| 17 | `resume-ai` | AI resume builder and optimizer |
+| 18 | `chatbot-widget` | Embeddable chatbot for any website |
+| 19 | `ai-crm` | CRM with AI-powered features |
+| 20 | `doc-qa` | Upload PDF, ask questions about it |
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Phase_5-Niche_&_OSS-EA4B71?style=flat-square&labelColor=0d1117"/>&nbsp; <b>Month 5</b> &nbsp;·&nbsp; 5 repos</summary>
+
+<br/>
+
+| # | Repo | Description |
+|:-:|:-----|:------------|
+| 21 | `ai-seo-analyzer` | AI-powered SEO audit tool |
+| 22 | `whatsapp-ai-bot` | WhatsApp Business AI chatbot |
+| 23 | `youtube-ai-toolkit` | AI tools for YouTube creators |
+| 24 | `ai-invoice-processor` | Invoice data extraction with AI |
+| 25 | `langchain-starter-kit` | LangChain boilerplate — fork magnet |
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Phase_6-Advanced-EA4335?style=flat-square&labelColor=0d1117"/>&nbsp; <b>Month 6</b> &nbsp;·&nbsp; 5 repos</summary>
+
+<br/>
+
+| # | Repo | Description |
+|:-:|:-----|:------------|
+| 26 | `multi-agent-system` | Multiple AI agents collaborating |
+| 27 | `ai-code-reviewer` | AI-powered PR review bot |
+| 28 | `fine-tune-llm` | LLM fine-tuning guide and code |
+| 29 | `ai-automation-course` | Free open course on AI automation |
+| 30 | `agentnity-website` | Agency website, open source |
+
+</details>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--            OPEN SOURCE CONTRIBUTIONS                -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" />&nbsp; Open Source Contributions
+
+<br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+*Contributing to the ecosystem, not just building on it.*
+
+<br/>
+
+| Project | What I Contribute | Level |
+|:--------|:-----------------|:-----:|
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="22"/></a>&nbsp; [`langchain-ai/langchain`](https://github.com/langchain-ai/langchain) | Examples, documentation, bug reports | ![Medium](https://img.shields.io/badge/-Medium-F7DF1E?style=flat-square) |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="22"/></a>&nbsp; [`n8n-io/n8n`](https://github.com/n8n-io/n8n) | Workflow templates, documentation | ![Easy](https://img.shields.io/badge/-Easy-3FCF8E?style=flat-square) |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="22"/></a>&nbsp; [`FlowiseAI/Flowise`](https://github.com/FlowiseAI/Flowise) | Integrations, bug fixes | ![Medium](https://img.shields.io/badge/-Medium-F7DF1E?style=flat-square) |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="22"/></a>&nbsp; [`supabase/supabase`](https://github.com/supabase/supabase) | Documentation, example projects | ![Easy](https://img.shields.io/badge/-Easy-3FCF8E?style=flat-square) |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="22"/></a>&nbsp; [`vercel/next.js`](https://github.com/vercel/next.js) | Example improvements | ![Easy](https://img.shields.io/badge/-Easy-3FCF8E?style=flat-square) |
+
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="32"/> &nbsp;Achievements
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--               GITHUB STATS DASHBOARD                -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" />&nbsp; GitHub Analytics
+
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imeerkhurram&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" width="98%" alt="Trophies"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=meerkhurram&show_icons=true&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true&ring_color=00d4ff" width="49%" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meerkhurram&background=0d1117&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="49%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meerkhurram&layout=donut-vertical&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false&langs_count=8" width="33%" alt="Top Languages"/>
+
 </div>
+
+<br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meerkhurram&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=00d4ff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="Activity Graph"/>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="32"/> &nbsp;Recent Activity
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                    TROPHIES                         -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" />&nbsp; Achievements
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=meerkhurram&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" alt="Trophies"/>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--              WEEKLY SHIPPING ROUTINE                -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="30" />&nbsp; Weekly Shipping Routine
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Rule:%20At%20least%201%20commit%20per%20day.%20Every%20single%20day.%20No%20exceptions.-00d4ff?style=for-the-badge&labelColor=0d1117" height="32"/>
+
+<br/><br/>
+
+| Day | What I Ship | Time |
+|:---:|:------------|:----:|
+| <img src="https://img.shields.io/badge/-MON-339933?style=for-the-badge" height="24"/> | New features on main project | `1-2h` |
+| <img src="https://img.shields.io/badge/-TUE-3178C6?style=for-the-badge" height="24"/> | Add 10+ tools to awesome-ai-tools | `30m` |
+| <img src="https://img.shields.io/badge/-WED-8E75B2?style=for-the-badge" height="24"/> | Build new n8n workflow template | `1h` |
+| <img src="https://img.shields.io/badge/-THU-F7DF1E?style=for-the-badge" height="24"/> | Bug fixes, code reviews, improvements | `1h` |
+| <img src="https://img.shields.io/badge/-FRI-EA4B71?style=for-the-badge" height="24"/> | Work on secondary AI project | `1-2h` |
+| <img src="https://img.shields.io/badge/-SAT-EA4335?style=for-the-badge" height="24"/> | Open-source contributions | `1h` |
+| <img src="https://img.shields.io/badge/-SUN-8b949e?style=for-the-badge" height="24"/> | Update READMEs, plan next week | `30m` |
+
+<br/>
+
+<img src="https://img.shields.io/badge/Min:%207_commits/week-0d1117?style=flat-square&labelColor=339933" height="22"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Target:%2020--30_commits/week-0d1117?style=flat-square&labelColor=00d4ff" height="22"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Goal:%20Ship_every_single_day-0d1117?style=flat-square&labelColor=EA4335" height="22"/>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                AGENTNITY SECTION                    -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="30" />&nbsp; Agentnity — AI Automation Studio
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AGENTNITY-AI_Automation_Studio-00d4ff?style=for-the-badge&labelColor=0d1117&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGQ0ZmYiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTEyIDJMNiAxMmw2IDEwIDYtMTBMNiAxMnoiLz48L3N2Zz4=" height="35"/>
+
+<br/><br/>
+
+*We build chatbots, agents, and workflow automation for businesses worldwide.*
+
+<br/>
+
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="20"/> Personal Profile | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="20"/> Agentnity Organization |
+|:----------------:|:---------------------:|
+| Learning, experiments, open source | Production tools, client templates |
+| AI courses, research, tutorials | Agency resources, business tools |
+
+<br/>
+
+<a href="https://agentnity.com"><img src="https://img.shields.io/badge/Visit_agentnity.com-00d4ff?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=00d4ff" alt="Website" height="32"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                 RECENT ACTIVITY                     -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="30" />&nbsp; Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                 CONNECT SECTION                     -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="30" />&nbsp; Let's Connect and Build Together
+
+<br/>
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="32"/> &nbsp;Let's Connect & Build Together
-
-<div align="center">
-
-<a href="https://linkedin.com/in/imeerkhurram">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
+<a href="https://linkedin.com/in/meerkhurram">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://meerkhurram.com">
-  <img src="https://img.shields.io/badge/Website-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" alt="Website"/>
+&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/meerkhurram_">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="40"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+<a href="https://agentnity.com">
+  <img src="https://img.shields.io/badge/Website-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:meer@agentnity.com">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
 </a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="70%"/>
+<!-- DEV QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="60%"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0a192f,50:00d4ff,75:0a192f,100:0d1117&height=150&section=footer" width="100%"/>
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                SNAKE ANIMATION                      -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                    FOOTER                           -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:0a1628,30:0e2a47,50:00d4ff,70:0e2a47,90:0a1628,100:0d1117&height=150&section=footer" width="100%"/>
 
 <div align="center">
 
-### 💡 *"If it can be automated, it should be automated."*
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" />
+&nbsp;
+<i><b>If it can be automated, it should be automated.</b></i>
+&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Built_with-❤️_and_☕-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Built with love"/>
+<img src="https://img.shields.io/badge/Made_with-Love_and_Coffee-00d4ff?style=for-the-badge&labelColor=0d1117&logo=buymeacoffee&logoColor=00d4ff"/>
 
-<br/>
+<br/><br/>
 
-<sub>⭐ Star my repos if you find them useful - it helps more than you think!</sub>
+<sub>If my repos help you, consider giving them a star — it means the world</sub>
 
 </div>
