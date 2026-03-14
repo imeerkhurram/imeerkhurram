@@ -2,17 +2,17 @@
 
 # Hey, I'm Meer 👋
 
-**AI Automation Builder from Hyderabad 🇮🇳**
+**AI Automation Builder from Hyderabad, India**
 
-I build AI systems that save businesses real time —
-chatbots trained on your data, automations that run while
-you sleep, and AI agents that handle tasks humans
-shouldn't waste time on.
+I build AI systems that save businesses real time: chatbots trained on company data, automations that run in the background, and AI agents that handle repetitive work humans shouldn't be spending time on.
 
-**Currently building:**
-🔨 AI Fraud Detector · AI Support Agent · n8n workflow templates
+### Building Right Now
 
-**What I work with:**
+- AI Fraud Detector
+- AI Support Agent
+- n8n workflow templates for business automation
+
+### What I Work With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -31,26 +31,27 @@ shouldn't waste time on.
 
 ---
 
-### What I'm Building
+### Featured Work
 
-| Project | What It Does | Stack | Status |
-|---|---|---|---|
-| [ai-support-agent](link) | RAG chatbot trained on your docs | LangChain · FastAPI · Pinecone | 🟡 Building |
-| [autoflow-n8n-templates](link) | Plug-and-play business automations | n8n · OpenAI · Webhooks | 🟡 Building |
-| [model-arena](link) | Compare AI models side by side | Next.js · Supabase · REST APIs | 🔵 Planned |
+- [VaaniChat](https://github.com/imeerkhurram/vaanichat) - AI chatbot platform for support, workflow automation, and customer conversations.
+- AI Support Agent - RAG chatbot trained on docs and knowledge bases.
+- AutoFlow Templates - Plug-and-play n8n automations for ops, support, and growth.
+- Model Arena - Side-by-side AI model comparison and benchmark tooling.
+
+More builds are being cleaned up and open-sourced.
 
 ---
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=imeerkhurram&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imeerkhurram&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imeerkhurram&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imeerkhurram&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 
 ---
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/meerkhurram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/imeerkhurram)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=safari&logoColor=white)](https://meerkhurram.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:meer@agentnity.com)
 
